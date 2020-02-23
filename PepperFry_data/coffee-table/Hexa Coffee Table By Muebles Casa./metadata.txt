@@ -1,0 +1,1 @@
+{"Item Title": "Hexa Coffee Table By Muebles Casa.", "Item Price": "7759", "Savings": "Rs.6,241 (45% Off)", "Details": {"Brand: ": "Muebles Casa", "Dimensions:": "H 16 x W 29.5 x D 29.5", "Weight:": "5 KG", "Assembly:": "Carpenter Assembly", "Primary Material:": "Metal", "Room Type:": "Living Room"}}

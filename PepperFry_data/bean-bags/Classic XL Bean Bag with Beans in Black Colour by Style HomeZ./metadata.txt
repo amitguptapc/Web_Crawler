@@ -1,0 +1,1 @@
+{"Item Title": "Classic XL Bean Bag with Beans in Black Colour by Style HomeZ.", "Item Price": "1189", "Savings": "Rs.1,042 (47% Off)", "Details": {"Brand: ": "Style HomeZ", "Colour:": "", "Dimensions(In Inches):": "H 36  x W 25  x D 36", "Assembly:": "No Assembly Required", "Size:": "XL", "Material:": "Leatherette"}}

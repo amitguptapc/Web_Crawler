@@ -1,0 +1,1 @@
+{"Item Title": "Flex Arm Chair in Black Colour by Make Home Happy.", "Item Price": "11359", "Savings": "Rs.11,297 (50% Off)", "Details": {"Brand: ": "Make Home Happy", "Dimensions:": "H 33 x L 22 x B 19 (All Dimension in Inches)", "Weight:": "8 KG", "Assembly:": "Carpenter Assembly", "Primary Material:": "Teak Wood", "Room Type:": "Living Room", "Seating Height:": "18"}}

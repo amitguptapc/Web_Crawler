@@ -1,0 +1,1 @@
+{"Item Title": "Classic XXXL Bean Bag with Beans in Red Colour by Sattva.", "Item Price": "1519", "Savings": "Rs.1,500 (50% Off)", "Details": {"Brand: ": "Sattva", "Dimensions(In Inches):": "H 44 x W 28 x D 28", "Weight:": "3 KG", "Assembly:": "No Assembly Required", "Size:": "XXXL"}}

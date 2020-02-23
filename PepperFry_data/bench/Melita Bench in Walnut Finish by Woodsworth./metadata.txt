@@ -1,0 +1,1 @@
+{"Item Title": "Melita Bench in Walnut Finish by Woodsworth.", "Item Price": "9439", "Savings": "Rs.7,560 (44% Off)", "Details": {"Brand: ": "Woodsworth", "Dimensions:": "H 16 x W 45.5 x D 18.5 (All Dimensions in Inches)", "Weight:": "11 KG", "Assembly:": "Carpenter Assembly", "Primary Material:": "Fabric", "Room Type:": "Living Room", "Seating Height:": "16"}}

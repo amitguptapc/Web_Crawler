@@ -1,0 +1,1 @@
+{"Item Title": "Glow Portable Coffee Table in Acacia Dark Colour by Delite kom.", "Item Price": "2906", "Savings": "Rs.1,519 (34% Off)", "Details": {"Brand: ": "Delite Kom", "Dimensions:": "H 17.7 x W  31.5 x D 15.75", "Weight:": "13.5 KG", "Assembly:": "Carpenter Assembly", "Primary Material:": "Engineered Wood", "Room Type:": "Living Room", "Top Material:": "Engineered Wood"}}

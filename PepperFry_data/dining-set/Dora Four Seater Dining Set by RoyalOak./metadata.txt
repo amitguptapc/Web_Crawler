@@ -1,0 +1,1 @@
+{"Item Title": "Dora Four Seater Dining Set by RoyalOak.", "Item Price": "20950", "Savings": "Rs.23,550 (53% Off)", "Details": {"Brand: ": "Royal oak", "Dimensions:": "Table : H 29.5 x W 52.5 x D 31.2; Chair :H 33 x W 19.5 x D 20", "Weight:": "74 KG", "Assembly:": "Carpenter Assembly", "Primary Material:": "Beech Wood", "Room Type:": "Dining Room", "Top Material:": "Solid Wood"}}

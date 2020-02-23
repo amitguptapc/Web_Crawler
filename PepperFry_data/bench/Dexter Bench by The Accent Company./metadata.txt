@@ -1,0 +1,1 @@
+{"Item Title": "Dexter Bench by The Accent Company.", "Item Price": "11439", "Savings": "Rs.6,560 (36% Off)", "Details": {"Brand: ": "The Accent Company", "Dimensions:": "H 16 x W  16.5 x D 49; Seating Height : 16", "Assembly:": "Carpenter Assembly", "Primary Material:": "Fabric", "Room Type:": "Living Room", "Seating Height:": "16"}}

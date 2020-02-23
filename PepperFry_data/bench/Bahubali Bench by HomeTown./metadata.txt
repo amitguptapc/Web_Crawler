@@ -1,0 +1,1 @@
+{"Item Title": "Bahubali Bench by HomeTown.", "Item Price": "8170", "Savings": "Rs.16,730 (67% Off)", "Details": {"Brand: ": "HomeTown", "Dimensions:": "H 20 x W 45 x D 17", "Weight:": "10 KG", "Assembly:": "Assembly by Brand", "Primary Material:": "Rubber Wood", "Room Type:": "Dining Room", "Seating Height:": "20"}}

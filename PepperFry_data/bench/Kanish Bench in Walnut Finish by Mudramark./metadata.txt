@@ -1,0 +1,1 @@
+{"Item Title": "Kanish Bench in Walnut Finish by Mudramark.", "Item Price": "10639", "Savings": "Rs.17,485 (62% Off)", "Details": {"Brand: ": "Mudramark", "Dimensions:": "H 15 x W 52 x D 24 (All Dimensions in Inches)", "Weight:": "17 KG", "Assembly:": "Carpenter Assembly", "Primary Material:": "Fabric", "Room Type:": "Living Room"}}

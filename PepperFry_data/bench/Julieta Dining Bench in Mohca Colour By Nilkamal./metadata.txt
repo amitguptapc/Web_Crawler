@@ -1,0 +1,1 @@
+{"Item Title": "Julieta Dining Bench in Mohca Colour By Nilkamal.", "Item Price": "4199", "Savings": "Rs.2,101 (33% Off)", "Details": {"Brand: ": "Nilkamal", "Dimensions:": "H 18.5 x W  47.2 x D 15.7; Seating Height : 18.5", "Weight:": "11 KG", "Assembly:": "Carpenter Assembly", "Primary Material:": "Rubber Wood", "Room Type:": "Dining Room", "Seating Height:": "18.5"}}

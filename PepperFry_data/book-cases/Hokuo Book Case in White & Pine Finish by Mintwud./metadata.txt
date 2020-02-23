@@ -1,0 +1,1 @@
+{"Item Title": "Hokuo Book Case in White & Pine Finish by Mintwud.", "Item Price": "8239", "Savings": "Rs.21,758 (73% Off)", "Details": {"Brand: ": "Mintwud", "Dimensions:": "H 75.5 X W 26.6 X D 13.7 (All dimension in inches)", "Weight:": "36 KG", "Assembly:": "Carpenter Assembly", "Primary Material:": "Engineered Wood", "Room Type:": "Study Room"}}

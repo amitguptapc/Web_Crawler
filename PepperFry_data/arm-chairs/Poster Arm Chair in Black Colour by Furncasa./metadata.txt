@@ -1,0 +1,1 @@
+{"Item Title": "Poster Arm Chair in Black Colour by Furncasa.", "Item Price": "36998", "Savings": "Rs.22,200 (38% Off)", "Details": {"Brand: ": "Furncasa", "Dimensions:": "H 34 x W 30 x D 30; Seating Height: 18 (All Dimension in Inches)", "Weight:": "16 KG", "Assembly:": "Carpenter Assembly", "Primary Material:": "Teak Wood", "Room Type:": "Living Room", "Seating Height:": "18"}}

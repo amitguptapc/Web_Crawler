@@ -1,0 +1,1 @@
+{"Item Title": "Salamanca Two Seater Sofa In Dual Colour By Parin.", "Item Price": "16159", "Savings": "Rs.4,141 (20% Off)", "Details": {"Brand: ": "Parin", "Dimensions:": "H 34 x W 55 x D 33", "Weight:": "54.5 KG", "Assembly:": "Carpenter Assembly", "Primary Material:": "Fabric", "Room Type:": "Living Room", "Seating Height:": "17"}}

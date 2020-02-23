@@ -1,0 +1,1 @@
+{"Item Title": "Joss Book Case in Wenge Colour By Nilkamal.", "Item Price": "7012", "Savings": "Rs.3,588 (34% Off)", "Details": {"Brand: ": "Nilkamal", "Dimensions:": "H 66.73 x W 32.28 x D 12.59", "Weight:": "34 KG", "Assembly:": "Carpenter Assembly", "Primary Material:": "Engineered Wood", "Room Type:": "Study Room"}}

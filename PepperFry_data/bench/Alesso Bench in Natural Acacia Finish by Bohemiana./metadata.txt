@@ -1,0 +1,1 @@
+{"Item Title": "Alesso Bench in Natural Acacia Finish by Bohemiana.", "Item Price": "13999", "Savings": "Rs.12,000 (46% Off)", "Details": {"Brand: ": "Bohemiana", "Dimensions:": "H 18 x W 56 x D 17.75 (all dimensions in inches)", "Weight:": "32 KG", "Colour:": "Acacia Natural", "Assembly:": "Carpenter Assembly", "Primary Material:": "Acacia Wood", "Room Type:": "Living Room"}}

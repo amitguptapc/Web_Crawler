@@ -1,0 +1,1 @@
+{"Item Title": "Combo Rester XXXL Bean Bag with Beans + Filled Foot Stool in Black Colour by Sattva.", "Item Price": "2754", "Savings": "Rs.493 (15% Off)", "Details": {"Brand: ": "Sattva", "Colour:": "", "Dimensions(In Inches):": "H 27 x W 35 x D 35", "Assembly:": "No Assembly Required", "Size:": "XXXL", "Material:": "Leatherette", "Weight:": "4"}}

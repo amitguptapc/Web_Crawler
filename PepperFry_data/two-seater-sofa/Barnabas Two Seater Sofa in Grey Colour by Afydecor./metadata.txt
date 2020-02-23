@@ -1,0 +1,1 @@
+{"Item Title": "Barnabas Two Seater Sofa in Grey Colour by Afydecor.", "Item Price": "37999", "Savings": "Rs.23,000 (38% Off)", "Details": {"Brand: ": "Afydecor", "Dimensions:": "H 30.1 x W  64.2 x D 33.9; Seating Height : 17.7", "Weight:": "35 KG", "Assembly:": "No Assembly Required", "Primary Material:": "Leatherette", "Room Type:": "Living Room", "Seating Height:": "17.7"}}

@@ -1,0 +1,1 @@
+{"Item Title": "Dolce Sofa Bed Two Seater With Storage in Blue Colour by Evok.", "Item Price": "23265", "Savings": "Rs.26,725 (53% Off)", "Details": {"Brand: ": "Evok", "Dimensions:": "H 32.5 x W 64 x D 27", "Weight:": "53 KG", "Assembly:": "Carpenter Assembly", "Primary Material:": "Fabric", "Room Type:": "Living Room", "Storage:": "With Storage", "Seating Height:": "16.5"}}

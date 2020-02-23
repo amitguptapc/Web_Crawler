@@ -1,0 +1,1 @@
+{"Item Title": "Fauteuil Arm Chair in Wooden Finish by Stories.", "Item Price": "21555", "Savings": "Rs.9,077 (30% Off)", "Details": {"Brand: ": "Stories", "Dimensions:": "H 80 x W  54 x D 4; Seating Height : 40", "Weight:": "10 KG", "Assembly:": "No Assembly Required", "Primary Material:": "Mahogany Wood", "Room Type:": "Living Room", "Seating Height:": "40"}}

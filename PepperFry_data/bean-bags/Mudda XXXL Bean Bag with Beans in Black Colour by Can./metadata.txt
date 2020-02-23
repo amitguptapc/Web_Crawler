@@ -1,0 +1,1 @@
+{"Item Title": "Mudda XXXL Bean Bag with Beans in Black Colour by Can.", "Item Price": "2239", "Savings": "Rs.1,680 (43% Off)", "Details": {"Brand: ": "Can", "Colour:": "", "Dimensions(In Inches):": "H 46 x W 28 x D 28", "Assembly:": "No Assembly Required", "Pack Content:": "Mudda Chair (With Beans)", "Size:": "XXXL", "Material:": "Leatherette", "Weight:": "3.9"}}

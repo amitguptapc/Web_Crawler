@@ -1,0 +1,1 @@
+{"Item Title": "Aldora Solid Wood Book Case in Sheesham Stone Finish by Woodsworth.", "Item Price": "65999", "Savings": "Rs.66,639 (50% Off)", "Details": {"Brand: ": "Woodsworth", "Dimensions:": "H 72 x W 39 x D 18 (All Dimensions in Inches)", "Weight:": "85 KG", "Assembly:": "No Assembly Required", "Primary Material:": "Sheesham Wood", "Room Type:": "Living Room"}}

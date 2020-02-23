@@ -1,0 +1,1 @@
+{"Item Title": "Ergo Book Case in walnut finish by RoyalOak.", "Item Price": "10530", "Savings": "Rs.10,570 (50% Off)", "Details": {"Brand: ": "Royal oak", "Dimensions:": "H 49 x W 47 x D 16", "Assembly:": "Carpenter Assembly", "Primary Material:": "Engineered Wood", "Room Type:": "Study Room"}}

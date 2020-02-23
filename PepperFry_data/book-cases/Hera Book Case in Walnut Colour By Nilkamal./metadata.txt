@@ -1,0 +1,1 @@
+{"Item Title": "Hera Book Case in Walnut Colour By Nilkamal.", "Item Price": "9069", "Savings": "Rs.4,731 (34% Off)", "Details": {"Brand: ": "Nilkamal", "Dimensions:": "H 63.38 x W 63 x D 12.59", "Weight:": "54 KG", "Assembly:": "Carpenter Assembly", "Primary Material:": "Engineered Wood", "Room Type:": "Study Room"}}

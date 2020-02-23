@@ -1,0 +1,1 @@
+{"Item Title": "Ploy Chest of Drawer in Natural Finish by Workspace Interio.", "Item Price": "16695", "Savings": "Rs.13,304 (44% Off)", "Details": {"Brand: ": "Workspace Interio", "Dimensions:": "H 38 x W 32 x D 16 (All Dimensions in Inches)", "Weight:": "15 KG", "Assembly:": "Carpenter Assembly", "Primary Material:": "Engineered Wood"}}

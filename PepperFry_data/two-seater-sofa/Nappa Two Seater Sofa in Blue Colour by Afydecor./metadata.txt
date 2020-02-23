@@ -1,0 +1,1 @@
+{"Item Title": "Nappa Two Seater Sofa in Blue Colour by Afydecor.", "Item Price": "31199", "Savings": "Rs.18,800 (38% Off)", "Details": {"Brand: ": "Afydecor", "Dimensions:": "H 31.1 x W  58.3 x D 32.1; Seating Height : 16.9", "Weight:": "35 KG", "Assembly:": "No Assembly Required", "Primary Material:": "Leatherette", "Room Type:": "Living Room", "Seating Height:": "16.9"}}

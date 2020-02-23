@@ -1,0 +1,1 @@
+{"Item Title": "Budapest Two Seater Sofa in Elite Grey by @home.", "Item Price": "22705", "Savings": "Rs.21,195 (48% Off)", "Details": {"Brand: ": "@home", "Dimensions:": "H 31 x W 57 x D 34", "Weight:": "40 KG", "Assembly:": "Carpenter Assembly", "Primary Material:": "Fabric", "Room Type:": "Living Room", "Seating Height:": "22,8"}}

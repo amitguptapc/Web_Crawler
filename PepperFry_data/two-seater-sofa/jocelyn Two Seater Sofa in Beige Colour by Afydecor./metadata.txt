@@ -1,0 +1,1 @@
+{"Item Title": "jocelyn Two Seater Sofa in Beige Colour by Afydecor.", "Item Price": "32399", "Savings": "Rs.19,600 (38% Off)", "Details": {"Brand: ": "Afydecor", "Dimensions:": "H 38 x W  56.3 x D 32.1; Seating Height : 17.7", "Weight:": "35 KG", "Assembly:": "No Assembly Required", "Primary Material:": "Leatherette", "Room Type:": "Living Room", "Seating Height:": "17.7"}}

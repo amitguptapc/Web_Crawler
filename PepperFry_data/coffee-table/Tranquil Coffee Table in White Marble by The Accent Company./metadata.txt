@@ -1,0 +1,1 @@
+{"Item Title": "Tranquil Coffee Table in White Marble by The Accent Company.", "Item Price": "21039", "Savings": "Rs.8,460 (29% Off)", "Details": {"Brand: ": "The Accent Company", "Dimensions:": "H 18 x W  36 x D 36", "Weight:": "31.66 KG", "Assembly:": "No Assembly Required", "Primary Material:": "Metal", "Room Type:": "Living Room"}}

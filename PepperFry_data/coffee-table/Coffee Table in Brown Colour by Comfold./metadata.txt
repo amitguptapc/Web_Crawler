@@ -1,0 +1,1 @@
+{"Item Title": "Coffee Table in Brown Colour by Comfold.", "Item Price": "6364", "Savings": "Rs.6,635 (51% Off)", "Details": {"Brand: ": "Comfold", "Dimensions:": "H 17.7 x W  35.4 x D 17.7", "Weight:": "21 KG", "Assembly:": "Carpenter Assembly", "Primary Material:": "Engineered Wood", "Room Type:": "Living Room", "Top Material:": "Engineered Wood"}}

@@ -1,0 +1,1 @@
+{"Item Title": "Yunan Arm Chair in Wooden Colour by Stories.", "Item Price": "7581", "Savings": "Rs.3,192 (30% Off)", "Details": {"Brand: ": "Stories", "Dimensions:": "H 26 x W  26 x D 18; Seating Height : 17", "Weight:": "6 KG", "Assembly:": "No Assembly Required", "Primary Material:": "Oak Wood", "Room Type:": "Living Room", "Seating Height:": "17"}}

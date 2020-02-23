@@ -1,0 +1,1 @@
+{"Item Title": "Bonney Bench by Bohemiana.", "Item Price": "11599", "Savings": "Rs.13,400 (54% Off)", "Details": {"Brand: ": "Bohemiana", "Dimensions:": "H 17.5 x W 36 x D 16 (all dimensions in inches)", "Weight:": "13.82 KG", "Assembly:": "Carpenter Assembly", "Primary Material:": "Fabric", "Room Type:": "Living Room"}}

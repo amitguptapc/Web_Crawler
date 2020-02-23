@@ -1,0 +1,1 @@
+{"Item Title": "Book Case Cum Cabinet in Walnut Finish by RoyalOak.", "Item Price": "14640", "Savings": "Rs.16,610 (53% Off)", "Details": {"Brand: ": "Royal oak", "Dimensions:": "H 78 x W 31.5 x D 16.5", "Weight:": "50 KG", "Assembly:": "Carpenter Assembly", "Primary Material:": "Engineered Wood", "Room Type:": "Study Room"}}

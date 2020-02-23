@@ -1,0 +1,1 @@
+{"Item Title": "Apollo Book Case in Honey Brown colour by RoyalOak.", "Item Price": "10530", "Savings": "Rs.10,570 (50% Off)", "Details": {"Brand: ": "Royal oak", "Dimensions:": "H 72 x W 31.5 x D 15.7", "Weight:": "60 KG", "Assembly:": "Carpenter Assembly", "Primary Material:": "Engineered Wood", "Room Type:": "Study Room"}}

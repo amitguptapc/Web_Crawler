@@ -1,0 +1,1 @@
+{"Item Title": "Torrie Chest of Drawer in Wenge Color by @home.", "Item Price": "3519", "Savings": "Rs.5,381 (60% Off)", "Details": {"Brand: ": "@home", "Dimensions:": "H 24.6 x W 19.09 x D 14.96", "Weight:": "15 KG", "Assembly:": "Carpenter Assembly", "Primary Material:": "Engineered Wood", "Room Type:": "Bedroom"}}

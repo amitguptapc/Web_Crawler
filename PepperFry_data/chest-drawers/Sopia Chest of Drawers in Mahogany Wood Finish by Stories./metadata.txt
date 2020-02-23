@@ -1,0 +1,1 @@
+{"Item Title": "Sopia Chest of Drawers in Mahogany Wood Finish by Stories.", "Item Price": "34390", "Savings": "Rs.14,480 (30% Off)", "Details": {"Brand: ": "Stories", "Dimensions:": "H 33.9 x W  35.4 x D 18", "Assembly:": "No Assembly Required", "Primary Material:": "Mahogany Wood", "Room Type:": "Bedroom"}}

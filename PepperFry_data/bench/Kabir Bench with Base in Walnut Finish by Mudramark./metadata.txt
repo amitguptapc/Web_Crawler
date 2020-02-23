@@ -1,0 +1,1 @@
+{"Item Title": "Kabir Bench with Base in Walnut Finish by Mudramark.", "Item Price": "13199", "Savings": "Rs.13,040 (50% Off)", "Details": {"Brand: ": "Mudramark", "Dimensions:": "H 15 x W 52 x D 24 (All Dimensions in Inches)", "Weight:": "17 KG", "Assembly:": "Carpenter Assembly", "Primary Material:": "Fabric", "Room Type:": "Living Room"}}

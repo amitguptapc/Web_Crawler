@@ -1,0 +1,1 @@
+{"Item Title": "Harlow Two Seater Sofa in Brown Colour by Afydecor.", "Item Price": "34799", "Savings": "Rs.20,700 (37% Off)", "Details": {"Brand: ": "Afydecor", "Dimensions:": "H 38.6 x W  65 x D 33.9; Seating Height : 17.7", "Weight:": "35 KG", "Assembly:": "No Assembly Required", "Primary Material:": "Leatherette", "Room Type:": "Living Room", "Seating Height:": "17.7"}}

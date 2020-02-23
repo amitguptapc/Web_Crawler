@@ -1,0 +1,1 @@
+{"Item Title": "Abstract Design XXL Bean Bag Cover in Multicolour by Style HomeZ.", "Item Price": "1577", "Savings": "Rs.1,381 (47% Off)", "Details": {"Brand: ": "Style HomeZ", "Colour:": "", "Dimensions(In Inches):": "H 40 x W 28  x D 40", "Assembly:": "No Assembly Required", "Size:": "XXL", "Material:": "Cotton"}}

@@ -1,0 +1,1 @@
+{"Item Title": "Muddha XXXL Bean Bag with Beans in Yellow Colour by Sattva.", "Item Price": "2469", "Savings": "Rs.3,195 (56% Off)", "Details": {"Brand: ": "Sattva", "Dimensions:": "H 33 x W 33 x D 33", "Weight:": "3 KG", "Assembly:": "No Assembly Required", "Primary Material:": "Fabric", "Room Type:": "Living Room"}}

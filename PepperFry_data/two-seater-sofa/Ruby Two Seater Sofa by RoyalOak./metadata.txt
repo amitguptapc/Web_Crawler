@@ -1,0 +1,1 @@
+{"Item Title": "Ruby Two Seater Sofa by RoyalOak.", "Item Price": "26320", "Savings": "Rs.24,780 (48% Off)", "Details": {"Brand: ": "Royal oak", "Dimensions:": "H 38 x W 58 x D 32", "Weight:": "47 KG", "Assembly:": "Carpenter Assembly", "Primary Material:": "Fabric", "Room Type:": "Living Room"}}

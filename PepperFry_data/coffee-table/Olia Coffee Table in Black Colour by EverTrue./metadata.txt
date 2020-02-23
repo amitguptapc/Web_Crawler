@@ -1,0 +1,1 @@
+{"Item Title": "Olia Coffee Table in Black Colour by EverTrue.", "Item Price": "16719", "Savings": "Rs.7,780 (32% Off)", "Details": {"Brand: ": "EverTrue", "Dimensions:": "H 16.1 x W  31.5 x D 31.5; Seating Height :", "Weight:": "15 KG", "Assembly:": "No Assembly Required", "Primary Material:": "Metal", "Room Type:": "Living Room", "Top Material:": "Glass"}}

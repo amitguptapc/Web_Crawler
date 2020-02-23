@@ -1,0 +1,1 @@
+{"Item Title": "Laurel Arm Chair in Grey Colour By Stories.", "Item Price": "26011", "Savings": "Rs.10,952 (30% Off)", "Details": {"Brand: ": "Stories", "Dimensions:": "H 34 x W  23 x D 24; Seating Height : 18", "Weight:": "8 KG", "Assembly:": "No Assembly Required", "Primary Material:": "Mahogany Wood", "Room Type:": "Living Room", "Seating Height:": "18"}}

@@ -1,0 +1,1 @@
+{"Item Title": "Owen Solid Wood Arm Chair in Teak Finish by Make Home Happy.", "Item Price": "13359", "Savings": "Rs.4,140 (24% Off)", "Details": {"Brand: ": "Make Home Happy", "Dimensions:": "H 35 x W  24 x D 20; Seating Height : 20", "Assembly:": "No Assembly Required", "Primary Material:": "Teak Wood", "Room Type:": "Living Room", "Seating Height:": "20"}}

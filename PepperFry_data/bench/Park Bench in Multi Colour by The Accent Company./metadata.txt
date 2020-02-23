@@ -1,0 +1,1 @@
+{"Item Title": "Park Bench in Multi Colour by The Accent Company.", "Item Price": "11439", "Savings": "Rs.6,560 (36% Off)", "Details": {"Brand: ": "The Accent Company", "Dimensions:": "H 18 x W  47x D 16; Seating Height : 18", "Assembly:": "Carpenter Assembly", "Primary Material:": "Fabric", "Room Type:": "Living Room", "Seating Height:": "18"}}

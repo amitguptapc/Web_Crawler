@@ -1,0 +1,1 @@
+{"Item Title": "Camilla Book Case in Brown Finish by Hometown.", "Item Price": "19940", "Savings": "Rs.26,050 (57% Off)", "Details": {"Brand: ": "HomeTown", "Dimensions:": "H 72  x W 31 x D 16", "Weight:": "40 KG", "Assembly:": "Assembly by Brand", "Primary Material:": "Engineered Wood", "Room Type:": "Study Room"}}

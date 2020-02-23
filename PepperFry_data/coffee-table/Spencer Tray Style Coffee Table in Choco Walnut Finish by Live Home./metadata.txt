@@ -1,0 +1,1 @@
+{"Item Title": "Spencer Tray Style Coffee Table in Choco Walnut Finish by Live Home.", "Item Price": "2903", "Savings": "Rs.2,903 (50% Off)", "Details": {"Brand: ": "Live Home", "Dimensions:": "H 16 x W 31.5 x D 18.7", "Weight:": "7.3 KG", "Assembly:": "Carpenter Assembly", "Primary Material:": "Engineered Wood", "Room Type:": "Living Room", "Top Material:": "Engineered Wood"}}

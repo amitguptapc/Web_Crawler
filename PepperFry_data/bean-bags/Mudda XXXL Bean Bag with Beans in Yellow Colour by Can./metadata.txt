@@ -1,0 +1,1 @@
+{"Item Title": "Mudda XXXL Bean Bag with Beans in Yellow Colour by Can.", "Item Price": "1999", "Savings": "Rs.1,444 (42% Off)", "Details": {"Brand: ": "Can", "Colour:": "", "Dimensions(In Inches):": "H 46 x W 28 x D 28", "Assembly:": "No Assembly Required", "Size:": "XXXL", "Material:": "Leatherette"}}

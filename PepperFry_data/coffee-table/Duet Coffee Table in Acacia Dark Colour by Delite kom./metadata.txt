@@ -1,0 +1,1 @@
+{"Item Title": "Duet Coffee Table in Acacia Dark Colour by Delite kom.", "Item Price": "3099", "Savings": "Rs.1,031 (25% Off)", "Details": {"Brand: ": "Delite Kom", "Dimensions:": "H 17.7 x W  31.5 x D 15.75", "Weight:": "13.5 KG", "Assembly:": "Carpenter Assembly", "Primary Material:": "Engineered Wood", "Room Type:": "Living Room", "Top Material:": "Engineered Wood"}}
